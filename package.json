@@ -1,0 +1,17 @@
+{
+  "name": "js-discord-bot-commands",
+  "version": "0.0.1",
+  "description": "tbd",
+  "main": "src/deploy-commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0",
+    "dotenv": "^10.0.0"
+  }
+}
